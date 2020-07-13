@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816939721664",
+    "firebase_url": "https://salary-manager-40705.firebaseio.com",
+    "project_id": "salary-manager-40705",
+    "storage_bucket": "salary-manager-40705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816939721664:android:3e369164c7e053670f9e25",
+        "android_client_info": {
+          "package_name": "com.example.salary_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816939721664-nktm2dh2h1obioip78otitnnu5s2j9dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salary_manager",
+            "certificate_hash": "59bb8f28fac2797689cc370c56895e8ae1188398"
+          }
+        },
+        {
+          "client_id": "816939721664-iu4obrr7kghbl54a3g4hs4k2ppg80hqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgFHEV1PKJNoS5pTcIvanm2L63OKiWkao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816939721664-iu4obrr7kghbl54a3g4hs4k2ppg80hqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
