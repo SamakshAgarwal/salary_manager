@@ -1,6 +1,4 @@
-# salary_manager
-
-A new Flutter project.
+Salary Manager for MSMEs made with Flutter
 
 ## Getting Started
 
